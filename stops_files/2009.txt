@@ -511,7 +511,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,parent_station,wheel
 10836,Broadway & Columbia St,32.715803726111,-117.167262611633,10836,0,,1,N-W/B,,,Brdwy&Columbia,https://www.sdmts.com/schedules-real-time?fragment=10836
 10837,Balboa Av & Charger Bl,32.820921646020,-117.166408034730,10837,0,,1,M-Street-W/B,balcha,,Balboa&Charger,https://www.sdmts.com/schedules-real-time?fragment=10837
 10838,Washington St & Albatross St,32.750007966507,-117.165924152545,10838,0,,1,N-W/B,,,Wshngtn&Albatross,https://www.sdmts.com/schedules-real-time?fragment=10838
-10839,Broadway & Union St,32.715828014994,-117.165917502810,10839,0,,1,N-W/B,brouni,,Brdwy&Union,https://www.sdmts.com/schedules-real-time?fragment=10839,
+10839,Broadway & Union St,32.715828014994,-117.165917502810,10839,0,,1,N-W/B,brouni,,Brdwy&Union,https://www.sdmts.com/schedules-real-time?fragment=10839
 10840,Broadway & 1st Av,32.715855125716,-117.163670529632,10840,0,,1,N-W/B,bro1st,,Brdwy&1st,https://www.sdmts.com/schedules-real-time?fragment=10840
 10841,Broadway & 4th Av,32.715790560610,-117.160880301784,10841,0,,1,N-W/B,bro4th,,Brdwy&4th,https://www.sdmts.com/schedules-real-time?fragment=10841
 10846,Market St & 6th Av,32.711579800680,-117.159022687142,10846,0,,0,N-W/B,,,Mrkt&6th,https://www.sdmts.com/schedules-real-time?fragment=10846

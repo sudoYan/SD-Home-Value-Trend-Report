@@ -1436,7 +1436,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,parent_station,wheel
 12191,Waring Rd & Greenbrier Av,32.794828897920,-117.078678205599,12191,0,,1,F-S/B,,,Waring&Greenbrier
 12192,West Bernardo Dr & Duenda Rd,33.033051107715,-117.080821567052,12192,0,,1,F-S/B,wbedue,,WBdo&Duenda
 12194,3rd Av & J St,32.626612224346,-117.074253106240,12194,0,,1,F-S/B,3rdjst,,3rd&J
-12195,Bayview Heights Dr & Grape St,32.727632623288,-117.075545847653,12195,0,,0,F-S/B,baygra,,,Bayview Heights&Grape
+12195,Bayview Heights Dr & Grape St,32.727632623288,-117.075545847653,12195,0,,0,F-S/B,baygra,,Bayview Heights&Grape
 12196,3rd Av & K St,32.623709164209,-117.073118480776,12196,0,,1,F-S/B,,,3rd&K
 12198,Bernardo Center Dr & Fairlie Rd,33.028546017222,-117.075943497240,12198,0,,1,F-S/B,,,Bdo Ctr&Fairlie
 12199,Bernardo Center Dr & Fairhope Rd,33.031577907003,-117.075071449590,12199,0,,1,F-S/B,,,Bdo Ctr&Fairhope
